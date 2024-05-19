@@ -6,8 +6,10 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hi there 👋</h1>
-        <h2>I am Faisal Ahmed!!!</h2>
+        <center>
+            <h1>Hi there 👋</h1>
+            <h2>I am Faisal Ahmed!!!</h2>
+        </center>
         <h3>💫 About Me:</h3>
         <ul>
             <li>🔭 I’m currently working on</li>

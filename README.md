@@ -6,27 +6,23 @@
 </head>
 <body>
     <div class="container">
-        <center>
-            <h1>Hi there 👋</h1>
-            <h2>I am Faisal Ahmed!!!</h2>
-        </center>
-        <h3>💫 About Me:</h3>
+        <h1 align="center">   Hi there 👋</h1>
+        <h2 align="center">This is Faisal Ahmed!!!</h2>
+        <h3 align="center">🙋‍♂️ About Me:</h3>
         <ul>
-            <li>🔭 I’m currently working on</li>
-            <li>👯 I’m looking to collaborate on</li>
-            <li>🤝 I’m looking for help with</li>
-            <li>🌱 I’m currently learning</li>
-            <li>💬 Ask me about</li>
-            <li>⚡ Fun fact</li>
+            <li align="center">🌱 I’m currently studying in Computer Science and Engineering in BRAC University</li>
         </ul>
-        <h3>🌐 Socials:</h3>
+        <h3 align="center">🌐 Socials:</h3>
         <div class="socials">
+        <p align="center">
             <a href="https://www.facebook.com/faisalahmedmahin" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
             <a href="https://www.instagram.com/non_rt_rna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
             <a href="https://www.linkedin.com/in/faisal-ahmed-6b30a8264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        </p>
         </div>
-        <h3>💻 Tech Stack:</h3>
+        <h3 align="center">💻 Tech Stack:</h3>
         <div class="tech-stack">
+        <p align="center">
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -38,19 +34,28 @@
             <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
             <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
             <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+        </p>
         </div>
-        <h3>📊 GitHub Stats:</h3>
+        <h3 align="center">📊 GitHub Stats:</h3>
         <div class="github-stats">
+        <p align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmed21&theme=dark&hide_border=false" alt="GitHub Streak">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAhmed21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+        </p>
         </div>
-        <h3>✍️ Random Dev Quote</h3>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-        <h3>😂 Random Dev Meme</h3>
-        <img src="https://memer-new.vercel.app/" style="height: 400px;" alt="Random Dev Meme">
+        <h3 align="center">✍️ Random Dev Quote</h3>
+        <p align="center">
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+        </p>
+        <h3 align="center">😂 Random Dev Meme</h3>
+        <p align="center">
+            <img src="https://memer-new.vercel.app/" style="height: 400px;" alt="Random Dev Meme">
+        </p>
         <div class="footer">
+        <p align="center">
             <a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=FaisalAhmed21&icon=0&color=0" alt="Visit Count"></a>
+        </p>
         </div>
     </div>
 </body>

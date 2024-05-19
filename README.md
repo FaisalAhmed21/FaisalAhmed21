@@ -9,9 +9,7 @@
         <h1 align="center">   Hi there 👋</h1>
         <h2 align="center">This is Faisal Ahmed!!!</h2>
         <h3 align="center">🙋‍♂️ About Me:</h3>
-        <ul>
-            <li align="center">🌱 I’m currently studying in Computer Science and Engineering in BRAC University</li>
-        </ul>
+        <h3 align="center">🌱 I’m currently studying in Computer Science and Engineering in BRAC University</h3>
         <h3 align="center">🌐 Socials:</h3>
         <div class="socials">
         <p align="center">
@@ -39,9 +37,9 @@
         <h3 align="center">📊 GitHub Stats:</h3>
         <div class="github-stats">
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmed21&theme=dark&hide_border=false" alt="GitHub Streak">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAhmed21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+            <img src="https://github-readme-stats.vercel.app/api?username=faisalahmed21&show_icons=true&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalahmed21&theme=aura&hide_border=false" alt="GitHub streak stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmed21&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Langs">
         </p>
         </div>
         <h3 align="center">✍️ Random Dev Quote</h3>

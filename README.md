@@ -43,6 +43,9 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalahmed21&theme=aura&hide_border=false" alt="GitHub streak stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmed21&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Langs">
         </p>
+        <p align="center">
+            <img src="https://github-contributor-stats.vercel.app/api?username=faisalahmed21&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+        </p>
         </div>
         <h3 align="center">✍️ Random Dev Quote</h3>
         <p align="center">

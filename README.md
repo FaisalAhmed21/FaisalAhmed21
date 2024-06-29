@@ -41,7 +41,7 @@
         <p align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=faisalahmed21&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalahmed21&theme=aura_dark&hide_border=false" alt="GitHub streak stats">
-             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmed21&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Langs">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmed21&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=pie" alt="Top Langs">
 </p>
         </p>
         <p align="center">

@@ -51,11 +51,11 @@
         <h3 align="center">✍️ Random Dev Quote</h3>
         <p align="center">
             <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-        </p>
+<!--         </p>
         <h3 align="center">😂 Random Dev Meme</h3>
         <p align="center">
             <img src="https://memer-new.vercel.app/" style="height: 400px;" alt="Random Dev Meme">
-        </p>
+        </p> -->
         <div class="footer">
         <p align="center">
             <a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=FaisalAhmed21&icon=0&color=0" alt="Visit Count"></a>

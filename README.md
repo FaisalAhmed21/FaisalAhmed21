@@ -9,7 +9,7 @@
         <h1 align="center">   Hi there 👋</h1>
         <h2 align="center">This is Faisal Ahmed!!!</h2>
         <h3 align="center">🙋‍♂️ About Me:</h3>
-        <h3 align="center">🌱 I’m currently studying in Computer Science and Engineering in BRAC University</h3>
+        <h3 align="center">🌱 I’m currently studying in Computer Science and Engineering at BRAC University</h3>
         <h3 align="center">🌐 Socials:</h3>
         <div class="socials">
         <p align="center">

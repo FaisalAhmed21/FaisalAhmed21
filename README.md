@@ -19,7 +19,6 @@
             <a href="https://x.com/Faisal39621" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?logo=x&logoColor=white" alt="Twitter"></a>
         </p>
         </div>
-        <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
         <h3 align="center">💻 Tech Stack:</h3>
         <div class="tech-stack">
         <p align="center">
@@ -36,6 +35,7 @@
             <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
         </p>
         </div>
+        <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
         <h3 align="center">📊 GitHub Stats:</h3>
         <div class="github-stats">
         <p align="center">

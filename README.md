@@ -36,7 +36,7 @@
             <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
         </p>
         </div>
-        <h3 align="center">📊 GitHub Stats:</h3>
+        <h3 align="left">📊 GitHub Stats:</h3>
         <div class="github-stats">
         <p align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">

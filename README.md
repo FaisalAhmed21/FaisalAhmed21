@@ -41,7 +41,7 @@
         <p align="center">
             <img align="left" src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmed21&theme=aura_dark&hide_border=false" alt="GitHub streak stats">
-            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiurshuvo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Langs">
+            <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAhmed21&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Langs">
 
 </p>
         </p>

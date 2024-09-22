@@ -19,7 +19,7 @@
             <a href="https://x.com/Faisal39621" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?logo=x&logoColor=white" alt="Twitter"></a>
         </p>
         </div>
-        <img align="right" alt="coding" width="350" height="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+        <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
         <h3 align="center">💻 Tech Stack:</h3>
         <div class="tech-stack">
         <p align="center">
@@ -40,7 +40,7 @@
         <div class="github-stats">
         <p align="center">
             <img align="left" src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">
-            <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmed21&theme=aura_dark&hide_border=false" alt="GitHub streak stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmed21&theme=aura_dark&hide_border=false" alt="GitHub streak stats">
             <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAhmed21&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="width: 300px; height: auto;">
 
 </p>

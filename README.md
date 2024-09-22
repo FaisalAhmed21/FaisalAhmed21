@@ -6,8 +6,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 align="center">   Hi there! 👋</h1>
-        <h2 align="center">This is Faisal Ahmed!!!</h2>
+        <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Faisal+Ahmed+!!!;" /></h1>
         <h3 align="center">🙋‍♂️ About Me:</h3>
         <h3 align="center">🌱 I’m currently studying in Computer Science and Engineering at BRAC University</h3>
         <h3 align="center">🌐 Socials:</h3>

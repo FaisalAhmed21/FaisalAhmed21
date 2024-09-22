@@ -19,7 +19,7 @@
             <a href="https://x.com/Faisal39621" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?logo=x&logoColor=white" alt="Twitter"></a>
         </p>
         </div>
-        <img align="center" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+        <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
         <h3 align="center">💻 Tech Stack:</h3>
         <div class="tech-stack">
         <p align="center">

@@ -45,9 +45,9 @@
 
 </p>
         </p>
-        <p align="center">
+<!--         <p align="center">
             <img src="https://github-contributor-stats.vercel.app/api?username=FaisalAhmed21&limit=5&theme=aura_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-        </p>
+        </p> -->
         </div>
         <h3 align="center">✍️ Random Dev Quote</h3>
         <p align="center">

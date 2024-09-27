@@ -17,7 +17,7 @@
         <div class="socials">
         <p align="center">
             <a href="https://www.facebook.com/faisalahmedmahin" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
-            <a href="https://www.instagram.com/non_rt_rna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+            <a href="https://www.instagram.com/blissful_being21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
             <a href="https://www.linkedin.com/in/faisal-ahmed-6b30a8264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
             <a href="mailto:faisalrajshahi2003@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="GMail"</a>
             <a href="https://x.com/Faisal39621" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?logo=x&logoColor=white" alt="Twitter"></a>

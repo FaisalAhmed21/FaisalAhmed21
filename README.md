@@ -60,9 +60,9 @@
         <p align="center">
             <img src="https://memer-new.vercel.app/" style="height: 400px;" alt="Random Dev Meme">
         </p> -->
-        <div class="footer">
+<!--         <div class="footer">
         <a align="center"><img src="https://visitcount.itsvg.in/api?id=FaisalAhmed21&label=Profile%20Views&pretty=false" /></a>
-        </div>
+        </div> -->
     </div>
 </body>
 </html>

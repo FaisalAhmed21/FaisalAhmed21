@@ -12,7 +12,7 @@
     <div class="container">
         <h3 align="center">🙋‍♂️ About Me:</h3>
         <h3 align="center">🌱 I’m currently studying in Computer Science and Engineering at BRAC University</h3>
-        <img align="right" alt="coding" width="350" height="370" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+        <img align="right" alt="coding" width="350" height="360" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
         <h3 align="center">🌐 Let's get connected 🤝</h3>
         <div class="socials">
         <p align="center">

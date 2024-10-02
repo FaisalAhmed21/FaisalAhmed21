@@ -23,7 +23,7 @@
             <a href="https://x.com/Faisal39621" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?logo=x&logoColor=white" alt="Twitter"></a>
         </p>
         </div>
-        <h3 align="center">💻 Tech Stack:</h3>
+        <h3 align="center">💻 Tech I am acquainted with:</h3>
         <div class="tech-stack">
         <p align="center">
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">

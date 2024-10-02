@@ -13,7 +13,7 @@
         <h3 align="center">🙋‍♂️ About Me:</h3>
         <h3 align="center">🌱 I’m currently studying in Computer Science and Engineering at BRAC University</h3>
         <img align="right" alt="coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-        <h3 align="center">🌐 Socials:</h3>
+        <h3 align="center">🌐 Let's get connected 🤝</h3>
         <div class="socials">
         <p align="center">
             <a href="https://www.facebook.com/faisalahmedmahin" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>

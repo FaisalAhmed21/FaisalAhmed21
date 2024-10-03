@@ -12,7 +12,7 @@
     <div class="container">
         <h3 align="center">🙋‍♂️ About Me:</h3>
         <h3 align="center">🌱 I’m currently studying in Computer Science and Engineering at BRAC University</h3>
-        <img align="right" alt="Coder GIF" height=270 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+        <img align="right" alt="Coder GIF" height=270 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
         <h3 align="center">🌐 Let's get connected 🤝</h3>
         <div class="socials">
         <p align="center">

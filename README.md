@@ -42,7 +42,7 @@
         <h3 align="left">📊 GitHub Stats:</h3>
         <div class="github-stats">
         <p align="center">
-<!--             <img src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" style="height: 230px;"> -->
+<!--             <img src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&show_icons=true&theme=moltack&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" style="height: 230px;"> -->
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmed21&theme=moltack&hide_border=false" alt="GitHub streak stats" style="height: 230px;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAhmed21&theme=moltack&hide_border=false&include_all_commits=false&count_private=false&layout=pie" alt="Top Langs">
 
@@ -54,7 +54,7 @@
         </div>
         <h3 align="center">✍️ Random Dev Quote</h3>
         <p align="center">
-            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=moltack" alt="Random Dev Quote">
 <!--         </p>
         <h3 align="center">😂 Random Dev Meme</h3>
         <p align="center">

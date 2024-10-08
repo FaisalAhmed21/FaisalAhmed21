@@ -54,7 +54,7 @@
         </div>
         <h3 align="center">✍️ Random Dev Quote</h3>
         <p align="center">
-            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=moltack" alt="Random Dev Quote">
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 <!--         </p>
         <h3 align="center">😂 Random Dev Meme</h3>
         <p align="center">

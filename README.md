@@ -42,7 +42,7 @@
         <h3 align="left">📊 GitHub Stats:</h3>
         <div class="github-stats">
         <p align="center">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&show_icons=true&theme=moltack&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" style="height: 200px;width: 400px;">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&hide=issues&show_icons=true&theme=moltack&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" style="height: 200px;width: 400px;">
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmed21&theme=moltack&hide_border=false" alt="GitHub streak stats" style="height: 200px;width: 400px;">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalAhmed21&theme=moltack&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="height: 200px; width: 350px;">
 

@@ -49,7 +49,7 @@
 </p>
         </p>
         <p align="center">
-            <img src="https://github-contributor-stats.vercel.app/api?username=FaisalAhmed21&limit=5&theme=moltack&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+            <img align="center" src="https://github-contributor-stats.vercel.app/api?username=FaisalAhmed21&limit=5&theme=moltack&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="height: 200px;">
         </p>
         </div>
         <h3 align="center">✍️ Random Dev Quote</h3>

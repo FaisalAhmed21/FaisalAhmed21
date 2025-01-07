@@ -42,7 +42,7 @@
         <h3 align="left">📊 GitHub Stats:</h3>
         <div class="github-stats">
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&hide=prs&rank_icon=github&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" style="height: 200px;width: 420px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=FaisalAhmed21&hide=prs&rank_icon=github&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" style="height: 200px;width: 480px;">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaisalAhmed21&theme=aura&hide_border=false&include_all_commits=false&count_private=false" style="height: 180px;width: 350px;" />
 <!--             <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FaisalAhmed21&theme=2077" /> -->
 <!--             <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmed21&theme=aura&hide_border=false" alt="GitHub streak stats" style="height: 200px;width: 410px;"> -->
